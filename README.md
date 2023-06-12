@@ -2,7 +2,7 @@
 
 ### Boas vindas ao meu perfil 💙
 
-Meu nome é Marcelo Paludetto
+Meu nome é Ismael 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 
@@ -12,8 +12,8 @@ Meu nome é Marcelo Paludetto
 
 ### Você pode entrar em contato comigo :mailbox
 
-paludettomarcelo@gmail.com
+ismaelfermino798@gmail.com
 
-@marcelopaludetto
+@ismaelfermino
 
 ![](https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif)
