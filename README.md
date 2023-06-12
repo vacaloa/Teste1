@@ -1,7 +1,19 @@
-# Teste1
-
-git config --global user.name "ismael"
-git config --global user.email "cavalopremium@gmail.com"
-git init
 
 
+### Boas vindas ao meu perfil 💙
+
+Meu nome é Marcelo Paludetto
+
+- Estou estudando na [Alura](https://www.alura.com.br)
+
+- Estou me desenvolvendo na linguagem JavaScript
+
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+
+### Você pode entrar em contato comigo :mailbox
+
+paludettomarcelo@gmail.com
+
+@marcelopaludetto
+
+![](https://media.tenor.com/0pO-d7FH3QgAAAAi/spongebob-meme-spongebob.gif)
